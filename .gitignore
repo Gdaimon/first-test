@@ -40,3 +40,22 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/src/assets/.gitkeep
+/.angular-cli.json
+/e2e/app.e2e-spec.ts
+/tsconfig.json
+/src/main.ts
+/package-lock.json
+/src/typings.d.ts
+/karma.conf.js
+/protractor.conf.js
+/src/test.ts
+/src/tsconfig.app.json
+/e2e/tsconfig.e2e.json
+/tslint.json
+/src/environments/environment.ts
+/e2e/app.po.ts
+/src/environments/environment.prod.ts
+/src/polyfills.ts
+/src/tsconfig.spec.json
+/.editorconfig
